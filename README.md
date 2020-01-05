@@ -12,3 +12,7 @@ Materiały do wykładu Uczenie maszynowe w semestrze zimowym 2019-2020
 * **08-11 Zgodnie z zasadami zaliczania**
 * **12 RNNs**
   * Obie grupy - 23:59 05.01.2020. **Notebook nieobowiązkowy (na dodatkowe punkty)**
+  
+# PROJEKT
+* ** Stock market prediction. Przy użyciu: na pewno SVM/NN; wskaźniki analizy technicznej; dane raczej z GPW.
+
